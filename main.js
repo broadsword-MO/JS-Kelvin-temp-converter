@@ -1,5 +1,5 @@
 // Store the temperature in Kelvin.
-let kelvin = 293;
+const kelvin = 293;
 // Convert Kelvin to Celsius.
 const celsius = kelvin - 273;
 // Convert Celsius to Newton.
